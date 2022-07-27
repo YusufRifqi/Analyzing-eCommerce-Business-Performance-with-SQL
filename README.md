@@ -13,3 +13,6 @@ In this mini  SQL project, Querry made based the questions below. It is divided 
 - - Sum of Canceled Order each year 
 - - Top Categorical product with highest revenu each year
 - - Category with highest canceled order each year
+
+### TASK 3
+- Count of each total payment method each year
